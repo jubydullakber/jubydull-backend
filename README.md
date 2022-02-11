@@ -1,7 +1,3 @@
-# Backend challenge
-
-Thank you very much for investing your time in the recruitment process of ToolTime. We hope that you will find this one
-an interesting way to spend a couple of hours.
 
 ## Help needed!
 
@@ -63,9 +59,3 @@ type InvoiceInput {
 }
 ```
 
-## Good to know
-
-You can use any frameworks you want. You can use any libraries you want. Commit all changes to a Git repository and
-follow good commit message practice. Focus on good application structure, not a hacky solution.
-
-It's not about the goal but about the journey, show us what you have got!
